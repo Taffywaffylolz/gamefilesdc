@@ -344,4 +344,4 @@ function registerCommands() {
     console.log('Commands registered:', commands.map(c => c.name).join(', '));
 }
 
-client.login('MTM3NTE2NTA5NzAzODcwODkxOA.G2r83W.9r7nNJTBjrzcK9z9DIy8a7oXYG3hvv8aHXft-k');
+client.login('MTM3NTE2NTA5NzAzODcwODkxOA.GYUXLj.BDl48PYN4gFbQrQc8dtL_W0kH2VYotQEIiQa4k');
